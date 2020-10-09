@@ -1,7 +1,7 @@
 {
   "app-id": "dk.tangramgames.mrrescue",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "18.08",
+  "runtime-version": "20.08",
   "sdk": "org.freedesktop.Sdk",
   "command": "mrrescue",
   "finish-args": [
@@ -75,8 +75,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://bitbucket.org/rude/love/downloads/love-11.1-linux-src.tar.gz",
-          "sha256": "bc5e9a70021de830f1032d6afe900f0b81902e2b6c610e26cf1d6859bf8e7cde"
+          "url": "https://github.com/love2d/love/releases/download/11.3/love-11.3-linux-src.tar.gz",
+          "sha256": "649f0db7750ca121e4de7b60208703661052356df35f4cfad490b1ba14dd1455"
         }
       ]
     },
