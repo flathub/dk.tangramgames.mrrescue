@@ -4,6 +4,7 @@
   <id>dk.tangramgames.mrrescue</id>
   <metadata_license>FSFAP</metadata_license>
   <project_license>Zlib</project_license>
+  <developer_name>Simon Larsen</developer_name>
   <name>Mr Rescue</name>
   <summary>Arcade-style fire fighting game</summary>
   <description>
