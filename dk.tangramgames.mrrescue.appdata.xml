@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2018 Carles Pastor <cpbadosa@gmail.com> -->
-<component type="desktop">
+<component type="desktop-application">
   <id>dk.tangramgames.mrrescue</id>
   <metadata_license>FSFAP</metadata_license>
   <project_license>Zlib</project_license>
-  <developer_name>Simon Larsen</developer_name>
   <name>Mr Rescue</name>
   <summary>Arcade-style fire fighting game</summary>
   <description>
@@ -19,33 +18,39 @@
     fullscreen modes.</p>
   </description>
   <screenshots>
-    <screenshot>
+    <screenshot type="default">
       <caption>Dousing enemy</caption>
-      <image>http://tangramgames.dk/games/mrrescue/images/2.png</image>
+      <image>https://tangramgames.dk/games/mrrescue/images/2.png</image>
     </screenshot>
     <screenshot>
       <caption>Mid-level text</caption>
-      <image>http://tangramgames.dk/games/mrrescue/images/3.png</image>
+      <image>https://tangramgames.dk/games/mrrescue/images/3.png</image>
     </screenshot>
     <screenshot>
       <caption>Rescuing person</caption>
-      <image>http://tangramgames.dk/games/mrrescue/images/4.png</image>
+      <image>https://tangramgames.dk/games/mrrescue/images/4.png</image>
     </screenshot>
     <screenshot>
       <caption>Level selection</caption>
-      <image>http://tangramgames.dk/games/mrrescue/images/5.png</image>
+      <image>https://tangramgames.dk/games/mrrescue/images/5.png</image>
     </screenshot>
     <screenshot>
       <caption>Burning building</caption>
-      <image>http://tangramgames.dk/games/mrrescue/images/6.png</image>
+      <image>https://tangramgames.dk/games/mrrescue/images/6.png</image>
     </screenshot>
   </screenshots>
-  <url type="homepage">http://tangramgames.dk/games/mrrescue/</url>
+  <url type="homepage">https://tangramgames.dk/games/mrrescue</url>
+  <url type="bugtracker">https://github.com/SimonLarsen/mrrescue/issues</url>
+  <url type="vcs-browser">https://github.com/SimonLarsen/mrrescue</url>
+  <url type="donation">https://tangramgames.itch.io/mrrescue/purchase</url>
+  <developer id="dk.tangramgames">
+    <name>Simon Larsen</name>
+  </developer>
   <launchable type="desktop-id">dk.tangramgames.mrrescue.desktop</launchable>
   <provides>
     <binary>mrrescue</binary>
   </provides>
-  <content_rating type="oars-1.0">
+  <content_rating type="oars-1.1">
     <content_attribute id="violence-fantasy">mild</content_attribute>
   </content_rating>
   <releases>
