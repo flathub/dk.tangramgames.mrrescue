@@ -3,7 +3,7 @@
 <component type="desktop-application">
   <id>dk.tangramgames.mrrescue</id>
   <metadata_license>FSFAP</metadata_license>
-  <project_license>Zlib</project_license>
+  <project_license>Zlib and CC-BY-SA-3.0</project_license>
   <name>Mr Rescue</name>
   <summary>Arcade-style fire fighting game</summary>
   <description>
